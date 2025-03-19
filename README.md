@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 I'm studying Software Engineering in Asia Pacific University of Technology & Innovation in Malaysia. 
+
 <!--
 **brennalo/brennalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
